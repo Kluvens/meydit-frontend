@@ -25,3 +25,6 @@
     - list all jobs
     - select a specific job and see all the details the customer provides
     - the maker must be able to send a quotation, including a price and any other comment, notify the customer by email
+    
+## Assumptions
+- the service only provides to Australians, which means the phone number and address should stick with Australian format
